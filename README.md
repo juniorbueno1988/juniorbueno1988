@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao perfil do Júnior Bueno!
 
-Sou apaixonado por tecnologia, com foco em **desenvolvimento Front-end e Full Stack**, além de anos de experiência com **Suporte Técnico**. Sempre buscando aprender e criar soluções eficientes! 🚀
+Sou apaixonado por tecnologia, com foco em **desenvolvimento Full Stack**. Sempre buscando aprender e criar soluções eficientes! 🚀
 
 ---
 
